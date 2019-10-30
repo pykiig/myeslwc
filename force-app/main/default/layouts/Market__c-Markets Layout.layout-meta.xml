@@ -23,12 +23,12 @@
                 <field>Predicted_Booking_Rate__c</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Edit</behavior>
-                <field>State__c</field>
-            </layoutItems>
-            <layoutItems>
                 <behavior>Readonly</behavior>
                 <field>Total_Daily_Booking_Rate__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>State__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

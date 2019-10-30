@@ -103,7 +103,7 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
-        <field>Space__c.Minimum_Cappacity__c</field>
+        <field>Space__c.Minimum_Capacity__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
